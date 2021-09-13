@@ -8,7 +8,7 @@ The purpose of Steve VBA's excel-project was to find the company that is in its 
 ### ***Results:***
  Both years (2017 and 2018) show that the companies with the ticker names "RUN" and "ENPH", respectively, have shown a sound background in their financial statuses as compared to the remaining companies. However, the year 2017 was a successful one for the company "ENPH" with the highest returns. "RUN" did show some good financial statnding but it was not in competitive level to "ENPH". In 2018, the copmayies' financial situation is flipped. RUN has relatively better financial standing than that of "ENPH". ![img arc](2017results.png)
 ![img arc](2018results.png)
-### ***The analysis is well described with screenshots and code:***
+### ***The analysis:***
 This challenge was based on the analysis by concentrating on the time it takes for Excel to compute and produce its results by using the ***for*** multiple loops nested into one another in lesser time as compared to class work's VBA's codes. 
 ### ***Summary***
 #### *There is a detailed statement on the advantages and disadvantages of refactoring code in general:*
