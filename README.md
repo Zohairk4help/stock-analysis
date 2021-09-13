@@ -3,7 +3,7 @@
 
 ---
 ## Overview of Project
-### ***The purpose and background are well defined:***
+### ***The purpose and background :***
 The purpose of Steve VBA's excel-project was to find the company that is in its good financial condition for Steve's parents to invest their shares in. As steve was dealing with large amount of data that has the info on stocks -- its prices and its volumes-- in short span of time before his parents irrationally make a final decision to give their shares to the company name "DQ", Steve used his VBA skills to find the best company for his parents' benefits. 
 ### ***Results:***
  Both years (2017 and 2018) show that the companies with the ticker names "RUN" and "ENPH", respectively, have shown a sound background in their financial statuses as compared to the remaining companies. However, the year 2017 was a successful one for the company "ENPH" with the highest returns. "RUN" did show some good financial statnding but it was not in competitive level to "ENPH". In 2018, the copmayies' financial situation is flipped. RUN has relatively better financial standing than that of "ENPH". ![img arc](2017results.png)
